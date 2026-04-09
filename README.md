@@ -1,8 +1,11 @@
 # Detecting Neurocognitive Profiles using Classification
 
 **4AI3 Project Final Report**
+
 Kushika Senera
+
 Bachelor of Technology – Software Engineering Technology
+
 McMaster University
 
 ---
